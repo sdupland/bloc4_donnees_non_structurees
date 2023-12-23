@@ -16,3 +16,5 @@ For this exercice, we choose three models :
 - a logistic regression (base model)
 - a LSTM model
 - a BERT model using transfert learning
+
+only the two first models are dowloaded due the important size of the bert model (widely more than 25 Mo)
