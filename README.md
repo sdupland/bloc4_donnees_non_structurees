@@ -1,4 +1,4 @@
-# bloc4 Analyse de données non structurées
+# bloc4 Analysis of unstructured data
 
 AT&T Inc. is an American multinational telecommunications holding company headquartered at Whitacre Tower in Downtown Dallas, Texas. It is the world's largest telecommunications company by revenue and the third largest provider of mobile telephone services in the U.S. As of 2022, AT&T was ranked 13th on the Fortune 500 rankings of the largest United States corporations, with revenues of $168.8 billion.
 
@@ -8,8 +8,8 @@ Our goal is to build a spam detector, that can automatically flag spams as they 
 
 This project is made up of different parts :
 - get and analyse the data
-- transform and preprocess the data so as to be ready for use for training our models
-- create models, train it and asses performance
+- transform and preprocess the data so as to be ready to use for training our models
+- create models, train it and assess performance
 - conclusion
 
 For this exercice, we choose three models :
@@ -17,4 +17,4 @@ For this exercice, we choose three models :
 - a LSTM model
 - a BERT model using transfert learning
 
-only the two first models are dowloaded due the important size of the bert model (widely more than 25 Mo)
+only the two first models are dowloaded due the important size of the bert model (widely more than 25 Mo which is a size limit for github)
