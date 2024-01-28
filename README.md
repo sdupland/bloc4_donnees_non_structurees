@@ -15,6 +15,6 @@ This project is made up of different parts :
 For this exercice, we choose three models :
 - a logistic regression (base model)
 - a LSTM model
-- a BERT model using transfert learning
+- a BERT model using transfer learning
 
-only the two first models are dowloaded due the important size of the bert model (widely more than 25 Mo which is a size limit for github)
+Only the two first models are downloaded due the important size of the bert model (widely more than 25 Mo which is a size limit for github)
